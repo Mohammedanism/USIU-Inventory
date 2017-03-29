@@ -1,5 +1,5 @@
 # USIU-Inventory
-Download the latest version with git 
+Download the project with git 
 
 Import/load oswa_inv.sql(Usiu_inv.sql was already in my DB) into your mysql database. This should set up the basic structure of the database system.
 
